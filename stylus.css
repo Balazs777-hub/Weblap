@@ -1,0 +1,77 @@
+body {
+    background-color: darkblue;
+}
+
+head {
+
+}
+
+h1 {
+    color: aqua;
+    text-align: center;
+}
+
+h2 {
+    color: aqua;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+a {
+    background-color: black;
+    color: aqua;
+    border-radius: 5px;
+}
+
+h3 {
+    color: aqua;
+}
+
+nav {
+    
+}
+
+nav ul {
+    color: aqua;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    background-color: darkturquoise;
+}
+
+.box {
+    display: grid;
+    grid-template-columns: 1fr 1r 1fr 1fr;
+}
+
+header {
+    
+}
+
+aside {
+    color: aqua;
+    background-color: darkturquoise;
+}
+
+article {
+    color: aqua;
+
+}
+
+footer {
+    color: aqua;
+    background-color: darkturquoise;
+    text-align: center;
+}
+
+button {
+    color: aqua;
+    background-color: darkblue;
+}
+
+div {
+    border-style: double;
+    border: 10px 10px 10px 10px;
+}
+@media screen {
+    
+}
